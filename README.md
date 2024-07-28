@@ -8,11 +8,17 @@ ChineseFunction Example:
 
               
 For({
+
  ["功能"] = "重复",
+ 
  ["动作"] = function()
+ 
 print(a("使用玩家").Character)
+
 end,
+
  ["重复数量"] = 5
+ 
 })
 
 
